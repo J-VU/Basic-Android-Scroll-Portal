@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Default Colors-->
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--Color Theme : Program Catalog 894
+    https://www.color-hex.com/color-palette/894-->
+    <color name="color_1">#edc951</color>
+    <color name="color_2">#eb6841</color>
+    <color name="color_3">#CC2A36</color>
+    <color name="color_4">#4f372d</color>
+    <color name="color_5">#00a0b0</color>
+
+</resources>
